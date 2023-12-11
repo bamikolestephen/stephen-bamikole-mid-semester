@@ -19,6 +19,9 @@ include <string.h>
 
 }
 
+2b.
+// scanning program in c
+scanf_s("%s", name, _countof(name));
 
 #3.
 int main() {
